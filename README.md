@@ -1,5 +1,5 @@
 ### Hi there 👋
-I code spigot plugins, that's all really
+I code, that's all really
 
 My discord's Jena#4092, talk to me there
 
